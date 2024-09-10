@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.container-fluid {
+    background-color: #8E6EAD;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+    left: 200px;
+    right: 10px;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(117,57,148,1.00) 30.22%,rgba(195,153,208,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(117,57,148,1.00) 30.22%,rgba(195,153,208,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(117,57,148,1.00) 30.22%,rgba(195,153,208,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(117,57,148,1.00) 30.22%,rgba(195,153,208,1.00) 100%);
+}
+footer .row .col-xl-6 {
+    color: #FFFFFF;
+}
+.container-fluid .container .text-center {
+    color: #FBFBFB;
+}
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+    background-color: #F7F7F7;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+    background-color: #E9D5F2;
+}
+.media .media-body .mt-0 {
+    color: #FEFEFE;
+}
+.media .media-body p {
+    color: #FFFFFF;
+}
+.container-fluid .container .media-object-default {
+    background-color: #9E71B5;
+}
